@@ -11,7 +11,7 @@ class fuck
 		System.out.println("valid nu,ber");
 	    }
 	    else{
-		System.out.println("not valid number");
+		System.out.println("not valid numbers");
 	    }
 }
 	}
